@@ -43,11 +43,13 @@ main {
 .intro {
     flex: 1 1 100%;
     background-color: #d0d0d0;
+    text-align: center;
 }
 
 .content {
     flex: 2 1 60%;
     background-color: #c0c0c0;
+    text-align: center;
 }
 
 aside {
@@ -59,9 +61,15 @@ footer {
     background-color: #909090;
     text-align: center;
 }
+
 p {
     text-align: center;
 }
+
 h1 {
+    text-align: center;
+}
+
+h2 {
     text-align: center;
 }
